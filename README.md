@@ -2,15 +2,12 @@
 
 🎓 Computer Science student (Master 1) at SupMTI Rabat <br/>
 💻 Aspiring **Software Developer** passionate about clean code & problem solving <br/>
-🛠️ I build **web applications** and evolve them into **cross-platform software** <br/>
+🛠️ I build **full-stack web applications** and progressively adapt them into modern **cross-platform software** (PWA / SaaS) <br/>
 🌐 Portfolio: [bassmahousbane.com](https://bassmahousbane.com) <br/>
 📫 Let's connect on:
 <div align="left">
   <a href="https://linkedin.com/in/bassmahousbane" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/b.hsbn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:bh.bassma.housbane@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -30,12 +27,12 @@
 
 
 ## 🚀 Projects in Focus
-- 🧾 **Tone** - Billing Software (PWA)
-- 💰 **The Money Map** - Budget tracker with charts and filter
-- ✅ **Simplify** - Team task manager with progress tracking
-- 👨‍💻 **Auto-Park** - Function cars managing system  (internship)
-- 🔁 **OnHand** - Second hand items selling website
-- 📝 **Evoke** - Quiz app
+- 🧾 **Tone** - A modern invoicing software built as a Progressive Web App. Features include client, product, and invoice management, as well as PDF export. → ReactJS · Laravel · MySQL · REST API · PWA
+- 💰 **The Money Map** - A personal finance tracking web application with categorized expenses, dynamic filters, and data visualizations. → ReactJS · Laravel · MySQL · Chart.js
+- ✅ **Simplify** - A collaborative task management app for teams. Allows project creation, task assignment, progress tracking, and status notifications. → ReactJS · Laravel · MySQL
+- 👨‍💻 **Auto-Park** - An internal tool for managing a company’s fleet: vehicle tracking, maintenance scheduling, and incident reporting. → ReactJS · Laravel · MySQL · Internship Project
+- 🔁 **OnHand** - A full-stack web application for buying and selling second-hand items. Includes product management, shopping cart, and admin dashboard. → MongoDB · ExpressJS · ReactJS · Node.js (MERN stack)
+- 📝 **Evoke** - An educational web app for creating and taking quizzes in real time with automatic correction and result export. → Python · MySQL · Bootstrap
 <br/>
 🛠️ Currently rebuilding my GitHub repositories after account loss
 <br/>
