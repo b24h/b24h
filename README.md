@@ -3,8 +3,37 @@
 🎓 Computer Science student (Master 1) at SupMTI Rabat <br/>
 💻 Aspiring **Software Developer** passionate about clean code & problem solving <br/>
 🛠️ I build **web applications** and evolve them into **cross-platform software** <br/>
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/bassmahousbane/) <br/>
 🌐 Portfolio: [bassmahousbane.com](https://bassmahousbane.com) <br/>
+📫 Let's connect on:
+<div align="left">
+  <a href="https://linkedin.com/in/bassmahousbane" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/b.hsbn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:bh.bassma.housbane@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=b24h&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=b24h&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=b24h&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=b24h&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 🚀 Projects in Focus
@@ -14,49 +43,15 @@
 - 👨‍💻 **Auto-Park** - Function cars managing system  (internship)
 - 🔁 **OnHand** - Second hand items selling website
 - 📝 **Evoke** - Quiz app
-
-- 🛠️ **Currently rebuilding my GitHub repositories after account loss**
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=b24h&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=b24h&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b24h&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=b24h&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+🛠️ **Currently rebuilding my GitHub repositories after account loss**
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-
-# 🔧 Languages and Tools:
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-
-
-
-
-<h2 align="left">Hi 👋! My name is Bassma and I'm an aspiring software developer from Morocco</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b24h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b24h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+## 🔧 Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -97,18 +92,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:bh.bassma.housbane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/bassmahousbane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
