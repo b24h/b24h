@@ -8,10 +8,10 @@
 
 
 ## 🚀 Projects in Focus
-- 🧾 **Tone** - Billing Software (PWA) using ReactJS, Laravel, and MySQL
+- 🧾 **Tone** - Billing Software (PWA)
 - 💰 **The Money Map** - Budget tracker with charts and filter
 - ✅ **Simplify** - Team task manager with progress tracking
-- 👨‍💻 **Auto-Park** - Function cars manager with  (internship)
+- 👨‍💻 **Auto-Park** - Function cars managing system  (internship)
 - 🔁 **OnHand** - Second hand items selling website
 - 📝 **Evoke** - Quiz app
 
