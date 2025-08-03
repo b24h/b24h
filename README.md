@@ -1,4 +1,4 @@
- ## 👋 Hi, I'm Bassma
+ # 👋 Hi, I'm Bassma
 
 🎓 Computer Science student (Master 1) at SupMTI Rabat <br/>
 💻 Aspiring **Software Developer** passionate about clean code & problem solving <br/>
@@ -22,7 +22,7 @@
 <br/>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=b24h&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=b24h&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b24h&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -107,7 +107,27 @@
 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+### Languages:
+
+### Hosting: 
+
+### Frameworks, Platforms & Libraries:
+
+### Servers:
+
+### Databases:
+
+### Design:
+
+### CI/CD VCS:
+
+### Other:
+
+
+
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -117,8 +137,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
 
@@ -128,8 +148,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
