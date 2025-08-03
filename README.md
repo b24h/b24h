@@ -1,8 +1,25 @@
-## Hi, I'm Bassma 👋
+## 👋 Hi, I'm Bassma
 
-🔭 Computer Science student at SupMTI Rabat <br/>
-🌱 I create desktop apps and websites to stay consistent <br/>
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassmahousbane/) <br/>
+🎓 Computer Science student (Master 1) at SupMTI Rabat <br/>
+💻 Aspiring **Software Developer** passionate about clean code & problem solving <br/>
+🛠️ I build **web applications** and evolve them into **cross-platform software** <br/>
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/bassmahousbane/) <br/>
+🌐 Portfolio: [bassmahousbane.com](https://bassmahousbane.com) <br/>
+
+
+## 🚀 Projects in Focus
+- 🧾 **Tone** - Billing Software (PWA) using ReactJS, Laravel, and MySQL
+- 💰 **The Money Map** - Budget tracker with charts and filter
+- ✅ **Simplify** - Team task manager with progress tracking
+- 👨‍💻 **Auto-Park** - Function cars manager with  (internship)
+- 🔁 **OnHand** - Second hand items selling website
+- 📝 **Evoke** - Quiz app
+
+- 🛠️ **Currently rebuilding my GitHub repositories after account loss**
+
+
+
+
 
 
 # 📊 GitHub Stats:
