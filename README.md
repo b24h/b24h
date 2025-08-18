@@ -36,7 +36,7 @@
 <br/>
 🛠️ Currently rebuilding my GitHub repositories after account loss
 And those are future projects:
-- **Page Seller** - A bokk selling website. → ReactJS · Laravel · MySQL
+- **Page Seller** - A book selling website. → ReactJS · Laravel · MySQL
 - **Written Wnders** - A novel writing website. → ReactJS · Laravel · MySQL
 <br/>
 <br/>
