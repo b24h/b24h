@@ -34,10 +34,7 @@
 - 🔁 **OnHand** - A full-stack web application for buying and selling second-hand items. Includes product management, shopping cart, and admin dashboard. → MongoDB · ExpressJS · ReactJS · Node.js (MERN stack)
 - 📝 **Evoke** - An educational web app for creating and taking quizzes in real time with automatic correction and result export. → Python · MySQL · Bootstrap
 <br/>
-🛠️ Currently rebuilding my GitHub repositories after account loss
-And those are future projects:
-- **Page Seller** - A book selling website. → ReactJS · Laravel · MySQL
-- **Written Wnders** - A novel writing website. → ReactJS · Laravel · MySQL
+🛠️ Currently rebuilding my GitHub repositories after account loss...
 <br/>
 <br/>
 
