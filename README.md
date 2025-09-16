@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Bassma
 
-🎓 Computer Science student (Master 1) at SupMTI Rabat <br/>
+🎓 Data Science & Software Engineering Student (Master 1) at SupMTI Rabat <br/>
 💻 Aspiring **Software Developer** passionate about clean code & problem solving <br/>
 🛠️ I build **full-stack web applications** and progressively adapt them into modern **cross-platform software** (PWA / SaaS) <br/>
 🌐 Portfolio: [bassmahousbane.com](https://bassmahousbane.com) <br/>
